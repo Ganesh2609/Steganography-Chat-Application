@@ -130,13 +130,3 @@ Each client must enter their alias when prompted.
 - **Voice Messages**: Add support for sending audio messages.
 - **Mobile App**: Extend functionality to Android/iOS.
 
----
-
-## Contributors
-- **[Your Name]** - Developer
-
----
-
-## License
-This project is licensed under the MIT License.
-
